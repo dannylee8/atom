@@ -390,6 +390,66 @@ patch:
         patched: '2020-06-12T19:39:25.841Z'
     - github > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2020-06-12T19:39:25.841Z'
+    - babel-core > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-generator > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-traverse > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-template > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - mocha > yargs-unparser > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-generator > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-traverse > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-template > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-template > babel-traverse > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-helpers > babel-template > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-helpers > babel-template > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-generator > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-helpers > babel-template > babel-traverse > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-traverse > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-template > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-generator > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-traverse > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-template > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-template > babel-traverse > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-helpers > babel-template > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
+    - babel-core > babel-register > babel-core > babel-helpers > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2020-06-12T19:42:05.261Z'
   'npm:lodash:20180130':
     - babel-core > babel-plugin-proto-to-assign > lodash:
         patched: '2020-06-12T19:39:25.841Z'
